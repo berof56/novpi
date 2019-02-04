@@ -1,1 +1,13 @@
-{ "result": true, "plugins_": { "games.lua":"STROMCLI" " } }
+{
+
+    "result": true,
+
+    "plugins_": {
+
+        "games.lua":"BEROFCLI"
+
+        "ZHRFA.lua":"BEROFCLI"
+
+    }
+
+}

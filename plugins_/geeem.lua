@@ -390,7 +390,7 @@ CMDS = {
 
 },
 
-BEROF = GAMES,
+BEROF = GEEEM,
 
 BEROF_TEXT = GET_TEXT
 

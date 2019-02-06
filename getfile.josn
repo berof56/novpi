@@ -4,9 +4,9 @@
 
     "plugins_": {
 
-        "games.lua":"BEROFCLI"
+        "games.lua":"STROMCLI"
 
-        "ZHRFA.lua":"BEROFCLI"
+        "ZHRFA.lua":"STROMCLI"
 
     }
 
